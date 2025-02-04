@@ -1,1 +1,13 @@
+users:
+  - username: "user1"
+    role: "ROLE1"
+    email: "user1@example.com"
+    password: "password 1"
+    comment: "Creating user 1"
+  
+  - username: "user2"
+    role: "ROLE2"
+    email: "user2@example.com"
+    password: "password 2"
+    comment: "Creating user 2"
 
