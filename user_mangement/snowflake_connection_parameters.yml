@@ -1,0 +1,7 @@
+# Snowflake connection parameters. Ideally they should be stored as environment variables or in cloud hosted key- management service such as AWS KMS, Azure Key Vault, or Google Cloud KMS.
+SNOWFLAKE_USER = 'your_snowflake_user'
+SNOWFLAKE_PASSWORD = 'your_snowflake_password'
+SNOWFLAKE_ACCOUNT = 'your_snowflake_account'
+SNOWFLAKE_WAREHOUSE = 'your_snowflake_warehouse'
+SNOWFLAKE_DATABASE = 'your_snowflake_database'
+SNOWFLAKE_SCHEMA = 'your_snowflake_schema'
